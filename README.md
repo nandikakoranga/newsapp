@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Features:
+Category-based News: The app organizes news articles into various categories such as entertainment, business, sports, technology, health, science, and more. Users can select a category to view articles related to that specific topic.
+
+Search News: A search bar allows users to find specific news articles by entering keywords. The app then displays articles relevant to the entered search terms.
+
+Article Details: Each article includes a title, description, publication date, source channel, and a link to the original source. This ensures users have all the information they need before deciding to read the full article.
+
+Responsive Design: The app is designed to adapt to different screen sizes, providing a smooth experience whether accessed from a desktop, tablet, or smartphone.
+
+Technologies Used:
+React: The app is built with React, a leading JavaScript library for constructing user interfaces, which offers a solid foundation for creating dynamic and interactive components.
+
+Redux: State management is handled by Redux, ensuring a well-organized and predictable flow of data throughout the application.
+
+Styled-Components: For styling, the app uses Styled-Components, allowing developers to write CSS directly within JavaScript for more manageable component-specific styles.
+
+React-Bootstrap: React-Bootstrap is employed to create responsive and customizable UI components, offering a range of pre-built elements that integrate seamlessly into the app.
+
+Axios: Axios, a JavaScript library for making HTTP requests, is used to fetch data from the GNews public API.
+
+
+![Screenshot 2024-07-02 151933](https://github.com/nandikakoranga/newsapp/assets/90962321/69a37049-7e09-44bf-92a3-27076a6bb567)
+![Screenshot 2024-07-02 152029](https://github.com/nandikakoranga/newsapp/assets/90962321/dad3cde0-8dcd-42ed-822b-bc7e80ed0e28)
+![Screenshot 2024-07-02 152145](https://github.com/nandikakoranga/newsapp/assets/90962321/45aaaa5b-d9eb-4723-af31-f786923c9600)
